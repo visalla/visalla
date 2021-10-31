@@ -1,6 +1,6 @@
 ## Hi! My name's Vinicius Oliveira
 
-- 🔭 I’m currently working on Data Engineer
+- 🔭 I'm currently working as a Data Engineer at Blueshift.
 - 🌱 I’m currently learning Spark and Hadoop
 
 ### You can write to me in:
