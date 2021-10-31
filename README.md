@@ -3,6 +3,16 @@
 - 🔭 I’m currently working on Data Engineer
 - 🌱 I’m currently learning Spark and Hadoop
 
+### You can write to me in:
+
+<div align="left">
+  <a href="https://github.com/visalla">
+<img align="center" alt="Vini-Br" height="30" width="30" src="https://cdn.discordapp.com/attachments/904164221355425792/904181501531414528/brasil.png" />
+<img align="center" alt="Vini-Eng" height="30" width="30" src="https://cdn.discordapp.com/attachments/904164221355425792/904181495067975760/eua.png" />
+<img align="center" alt="Vini-Itl" height="30" width="30" src="https://cdn.discordapp.com/attachments/904164221355425792/904181496435335168/italiana.png" />
+</div>    
+
+##
 
 <div align="center">
   <a href="https://github.com/visalla">
@@ -18,7 +28,7 @@
   <img align="center" alt="Vini-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Vini-Azr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   
-  ### Languages
+  ### Programming languages
   
   <img align="center" alt="Vini-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
