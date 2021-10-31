@@ -30,7 +30,7 @@
   <img align="center" alt="Vini-Kfk" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 </div>
 
-  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904164221355425792/904164265097838623/download20211006212433.png">
+  <img align="center" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904164221355425792/904164265097838623/download20211006212433.png">
   
 ##
 
