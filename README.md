@@ -1,7 +1,7 @@
 ## Hi! My name's Vinicius Oliveira
 
 - 🔭 I'm currently working as a Data Engineer at Blueshift.
-- 🌱 I’m currently learning Spark and Hadoop
+- 🌱 I’m currently Kafka
 
 ### You can write to me in:
 
